@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://hasllaa.github.io/project-habitTracker",
+    "deploy": "gh-pages -d build -r <https://hasllaa.github.io/project-habitTracker>",
     "babel": "babel --presets es2015 js/main.js -o build/main.es5.js"
   },
   "eslintConfig": {
